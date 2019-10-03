@@ -1,6 +1,6 @@
-# Ambients Protocol Compiler _(ambc)_
+# JavaScript to Ambients Compiler _(js2amb)_
 
-> Compile your code into something that "speaks" Ambients
+> Compiles JavaScript to Ambient protocol syntax
 
 ## Background
 
